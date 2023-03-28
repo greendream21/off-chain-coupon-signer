@@ -1,0 +1,12 @@
+{
+  "couponType": 1,
+  "nftAddress": "0x1892619D6802b7d436Ea6f84548F2993Ae1f81E1",
+  "tokenId": 5,
+  "bidPrice": 100000,
+  "winner": "0x54A6534BD00Ae984380e77074f86cb867430CCF2",
+  "coupon": {
+    "r": "0xa27a3c1cbd002799c09370a193a312150d17ee0c1dc225595a4586435087c146",
+    "s": "0x0b5d100e97829473990dd646e0f54cce1b9ccdc50c06fefbcd7c42b7646d7045",
+    "v": 27
+  }
+}
